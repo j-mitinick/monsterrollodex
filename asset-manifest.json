@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/j-mitinick/monsterrollodex/static/css/main.f885328d.chunk.css",
+    "main.js": "/j-mitinick/monsterrollodex/static/js/main.0cc80b01.chunk.js",
+    "main.js.map": "/j-mitinick/monsterrollodex/static/js/main.0cc80b01.chunk.js.map",
+    "runtime-main.js": "/j-mitinick/monsterrollodex/static/js/runtime-main.95f92d37.js",
+    "runtime-main.js.map": "/j-mitinick/monsterrollodex/static/js/runtime-main.95f92d37.js.map",
+    "static/js/2.3b4484ac.chunk.js": "/j-mitinick/monsterrollodex/static/js/2.3b4484ac.chunk.js",
+    "static/js/2.3b4484ac.chunk.js.map": "/j-mitinick/monsterrollodex/static/js/2.3b4484ac.chunk.js.map",
+    "static/js/3.25e9b420.chunk.js": "/j-mitinick/monsterrollodex/static/js/3.25e9b420.chunk.js",
+    "static/js/3.25e9b420.chunk.js.map": "/j-mitinick/monsterrollodex/static/js/3.25e9b420.chunk.js.map",
+    "index.html": "/j-mitinick/monsterrollodex/index.html",
+    "static/css/main.f885328d.chunk.css.map": "/j-mitinick/monsterrollodex/static/css/main.f885328d.chunk.css.map",
+    "static/js/2.3b4484ac.chunk.js.LICENSE.txt": "/j-mitinick/monsterrollodex/static/js/2.3b4484ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95f92d37.js",
+    "static/js/2.3b4484ac.chunk.js",
+    "static/css/main.f885328d.chunk.css",
+    "static/js/main.0cc80b01.chunk.js"
+  ]
+}
